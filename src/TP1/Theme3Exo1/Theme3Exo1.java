@@ -1,4 +1,4 @@
-package Theme3Exo1;
+package TP1.Theme3Exo1;
 
 
 import java.util.*;
@@ -11,9 +11,9 @@ public class Theme3Exo1 {
         Scanner sc =        new Scanner(System.in);
         List<Double> notes = new ArrayList<>();
         double note_temp =  0.0;
-        double min =        0.0;
-        double max =        0.0;
-        double avr =        0.0;
+        double min       =  0.0;
+        double max       =  0.0;
+        double avr       =  0.0;
 
         while (note_temp != -1) {
             System.out.print("donnez une note ( >=0 ou -1 pour arrêter): ");

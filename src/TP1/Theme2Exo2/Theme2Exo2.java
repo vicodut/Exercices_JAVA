@@ -1,3 +1,5 @@
+package TP1.Theme2Exo2;
+
 import java.util.Scanner;
 
 public class Theme2Exo2 {
