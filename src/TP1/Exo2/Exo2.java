@@ -1,4 +1,4 @@
-package Exo2;
+package TP1.Exo2;
 
 import java.util.Scanner;
 
