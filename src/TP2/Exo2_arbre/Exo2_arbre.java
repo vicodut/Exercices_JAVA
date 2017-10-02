@@ -96,7 +96,6 @@ class Person {
 
     private String getTab(int nb) {
         StringBuilder sb = new StringBuilder();
-
         for (int i = 0; i < nb; i++) {
             if (i == nb - 1) {
                 sb.append("|---");
